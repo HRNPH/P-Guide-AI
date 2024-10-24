@@ -67,3 +67,6 @@ public/swe-worker*
 
 *.patch
 *.pdf
+
+data/
+s3_data/
