@@ -2,7 +2,7 @@
   "button": {
     "import": "Import Configuration",
     "market": "Visit Market",
-    "start": "Start Now"
+    "start": "เริ่มเรียนเลย!"
   },
   "guide": {
     "agents": {
@@ -43,8 +43,8 @@
   "pickAgent": "Or choose from the following assistant templates",
   "skip": "Skip Creation",
   "slogan": {
-    "desc1": "Pioneering the new age of thinking and creating. Built for you, the Super Individual.",
+    "desc1": "เพื่อนรู้ใจที่จะเปลี่ยนให้การเรียนเรื่องยาก ให้กลายเป็นเรื่องง่าย",
     "desc2": "Create your first assistant and let's get started~",
-    "title": "Unlock the superpower of your brain"
+    "title": "เพื่อนคู่ใจ AI เพื่อนเรียน"
   }
 }
